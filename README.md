@@ -1,4 +1,4 @@
-# Object Tracking with Lucas-Kanade and Matthew-Baker Methods
+<h1 align="center">Object Tracking with Lucas-Kanade and Matthew-Baker Methods</h1>
 
 ## Overview
 
